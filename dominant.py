@@ -1,3 +1,6 @@
+# Reference https://code.likeagirl.io/finding-dominant-colour-on-an-image-b4e075f98097
+#https://stackoverflow.com/questions/73808864/get-most-dominant-colors-from-video-opencv-python
+
 import numpy as np
 import cv2 as cv
 
